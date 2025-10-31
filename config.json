@@ -1,0 +1,22 @@
+{
+  "TOKEN": "tokeniniz",
+  "PREFIX": "!",
+  "KOMUTLAR": {
+    "YARDIM": "yardim",
+    "PANEL_KUR": "rolpanelkur",
+    "AYARLA": "rolayarla"
+  },
+  "MESAJLAR": {
+    "YETKI_YOK": "Bu komutu kullanmak icin Yonetici yetkisine sahip olmalisiniz.",
+    "AYAR_EKSİK": "Eksik parametre! Kullanim: `{prefix}{komut} <Mesaj ID> <Rol ID> <Buton Etiketi>`",
+    "ROL_AYARLANDI": "Rol butonu basariyla ayarlandi ve butona eklendi.",
+    "ROL_ALINDI": "Istenen rol uzerinizden kaldirildi.",
+    "ROL_VERILDI": "Istenen rol size verildi."
+  },
+  "EMBEDS": {
+    "YARDIM_BASLIK": "Buton Rol Sistemi Komutlari",
+    "YARDIM_ACIKLAMA": "Bu altyapi, kullanicilarin butonlar araciligiyla rol almasini saglar. Iste komut listesi:",
+    "YARDIM_AYARLA_BASLIK": "Yetkili Komutlari",
+    "YARDIM_KULLANICI_BASLIK": "Kullanici Komutlari"
+  }
+}
