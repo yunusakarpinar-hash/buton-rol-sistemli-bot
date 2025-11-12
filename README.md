@@ -1,4 +1,4 @@
-🖱️ Komutla Ayarlanabilir Buton Rol Sistemi Altyapısı - [Noise Development]
+🖱️ Komutla Ayarlanabilir Buton Rol Sistemi Altyapısı - 
 Bu proje, Discord sunucularınızda kullanıcıların tek bir butona tıklayarak rol almasını/kaldırmasını sağlayan dinamik, komutla yapılandırılabilir bir Discord.js altyapısıdır. config.json'ı elle düzenleme ihtiyacını ortadan kaldırır.
 🌟 Özellikler
  * Komutla Yapılandırma: Yeni butonlar eklemek veya mevcut paneli kurmak için botu durdurmaya gerek yoktur. Tüm roller Discord üzerinden komutla ayarlanır.
@@ -74,4 +74,4 @@ Tüm komutların özetini Discord üzerinden görmek için:
  * Özelleştirilebilir Stil: ButtonStyle.Primary yerine ButtonStyle.Secondary, Success veya Danger kullanarak butonların renklerini değiştirebilirsiniz.
  * Yetki İzinleri: Rol atama/kaldırma hatası alıyorsanız, botun rolünün sunucudaki en üst rol olduğundan veya atamaya çalıştığı rolün üstünde olduğundan emin olun.
 👤 Geliştirici
-Bu altyapı bexA tarafından Noise Development topluluğu için hazırlanmıştır.
+Bu altyapı bexA tarafından yapilmistir.
